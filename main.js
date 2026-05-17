@@ -24,6 +24,15 @@ const students = [
     github: "https://github.com/JoelBanasJr",
     linkedin: "https://linkedin.com/in/JoelBanasJr",
   }, "Computer Science Student", "JB")
+  createStudent("Mark Jun Gersaniva", "https://via.placeholder.com/200", "Aspiring software engineer with a passion for open-source projects and community building.", {
+    github: "https://github.com/nujkram",
+    linkedin: "https://linkedin.com/in/nujkram",
+  }, "Engineering", "MJ"),
+  createStudent("Mike Aldren Dizon", "https://via.placeholder.com/200", "Creative designer specializing in branding and digital media with a keen eye for aesthetics.", {
+    github: "https://github.com/mikealdrendizon",
+    linkedin: "https://linkedin.com/in/mikealdrendizon",
+    facebook: "https://facebook.com/mikealdrendizon"
+  }, "Design", "MD")
 ];
 
 // Generate social icons
